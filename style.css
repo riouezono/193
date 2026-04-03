@@ -27,8 +27,38 @@ h1 {
 .subtitle {
     font-size: 1.6rem;
     color: #666;
-    margin-bottom: 20px;
+    margin-bottom: 6px;
     font-weight: 500;
+}
+
+.subtitle-en {
+    font-size: 1.1rem;
+    color: #888;
+    margin-bottom: 12px;
+}
+
+.subtitle-en.small {
+    font-size: 0.95rem;
+    margin-bottom: 20px;
+}
+
+.tagline-en {
+    font-size: 0.95rem;
+    color: #666;
+    margin-top: 4px;
+}
+
+.heading-en {
+    font-size: 0.75em;
+    font-weight: 600;
+    color: #888;
+}
+
+.section-intro-en {
+    font-size: 0.9rem;
+    color: #888;
+    margin-top: -16px;
+    margin-bottom: 30px;
 }
 
 .counter-box {
